@@ -7,9 +7,6 @@ This project is a Rest API developed in NestJS (using Node and Express underneat
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Configuration](#configuration)
-- [Run the Project](#run-the-project)
-- [Firebase Emulators](#firebase-emulators)
-- [Endpoints Available](#endpoints-available)
 
 ## Requirements
 
